@@ -1,5 +1,5 @@
 # Api_test
-API test on Weather Map API
+
 tests["ResponseCode"]=responseCode.code=200
 tests["LondonCheck"]=responseBody.has("London")
 
